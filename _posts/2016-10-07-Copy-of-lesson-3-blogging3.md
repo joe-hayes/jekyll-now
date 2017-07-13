@@ -1,5 +1,5 @@
 ---
-title:  lesson 3 
+title:  lesson 1/2
 layout: post
 author: joe.hayes
 permalink: /copy-of-lesson-3-blogging3/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Lesson 3</td>
+    <td>Lesson 1/2</td>
     <td>Date</td>
-    <td>22/06/17</td>
+    <td>15/06/17</td>
   </tr>
 </table>
 
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Good knowledge of repl</td>
+    <td>Good knowledge of github</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To make a name length programme</td>
+    <td>To restart</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
@@ -41,20 +41,20 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I pi made an effective programme that determines the relative length of someone's first and last name</td>
+    <td>I learned how to make a new repository and start over again</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I need to work on making my programme more complex and intricate too improve my knowledge further. </td>
+    <td>I needed to learn how to fork things from jekyll and other people.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
     <td>
-Next time i will use my prior knowledge to get a harder set of code down on the screen.</td>
+Next time i will use my prior knowledge to get a harder and better looking website on the screen.</td>
   </tr>
 </table>
 
